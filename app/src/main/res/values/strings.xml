@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextCalc</string>
+    <string name="numerico">Numerico</string>
+    <string name="inputTxt">Try a word</string>
+    <string name="numero"> : %s</string>
+    <string name="similarly"> %s</string>
+    <string-array name="Discover_them"> Discover them: %s</string-array>
+</resources>
